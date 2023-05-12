@@ -21,10 +21,12 @@ const Work = () => {
                 My Latest <br /> Projects.
               </h2>
               <p className='max-w-lg mb-16'>
-                I am currently working as a frontend developer at COSMIO, a start up company developing Customer Support Chatbot based on ChatGPT with domain specific knowlege. 
+                Technologies I've worked with: <br />
+                Python, Java, C/C++, Scikit-Learn, JavaScript, HTML, CSS, React,<br />
+                SystemVerilog, Quartus, ModelSim, Git, Jira, MS Office
               </p>
               <button className='btn btn-sm' onClick={() => window.open('https://www.linkedin.com/in/sonya-zhao/', '_blank', 'noopener noreferrer')}>
-                View more projects on LinkedIn
+                View more on LinkedIn
                 </button>
             </div>
             {/* image */}

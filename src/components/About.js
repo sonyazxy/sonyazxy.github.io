@@ -32,8 +32,15 @@ const About = () => {
           viewport={{once:false, amount:0.3}} 
           className='flex-1'>
             <h2 className='h2 text-accent'>About me.</h2>
-            <h3 className='h3 mb-4'>I'm a 3rd year cpen student safljdlfjslafjdskfjlsjfads</h3>
-            <p className='mb-6'>kjsadjfldsjlfjsal</p>
+            <h3 className='h3 mb-4'>I love reading, traveling, and exploring possibilities.</h3>
+            <p className='mb-6'>
+              Currently, I am<br />
+              ... a Backend Developer at <a href="https://ubcmint.github.io/" target="_blank">UBC MINT</a>, internal software subteam where we are building a team mangement web app.
+              <br />
+              ... a Frontend Developer Intern at COSMIO, 
+              a startup company specializing in developing a Customer Support Chatbot based on ChatGPT with domain-specific knowledge.
+              <br /><br />
+            </p>
             {/* stas */}
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
               <div>

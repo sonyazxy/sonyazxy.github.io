@@ -38,11 +38,11 @@ const Home = () => {
               <TypeAnimation 
                 sequence={[
                   'Developer', 
-                  2000,
-                  'Foodie', 
-                  2000,
+                  3000,
+                  'Dedicated Learner', 
+                  3000,
                   'Designer', 
-                  2000,
+                  3000,
                 ]} 
                 speed={50}
                 className='text-accent'
